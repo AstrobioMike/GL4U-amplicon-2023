@@ -1,7 +1,7 @@
 # Application submission info
 
 ---
-> Submitted on 08-Mar-2023...
+> Submitted on 08-Mar-2023, approved within an hour (for 100,000 ACCESS credits, which was more than requested; BIO230035).
 ---
 
 Submitted through ACCESS: https://access-ci.org/
