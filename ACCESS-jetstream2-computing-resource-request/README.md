@@ -14,6 +14,9 @@ Then selecting to submit an Explore ACCESS request
 
 ## Required information I added to the form
 
+> **NOTE**
+> After this was submitted, it changed such that "Explore ACCESS" requests are distributed with 200,000 ACCESS units, which can be up'd to 400,000 if requested after approval. We no longer need to include an estimate of SUs as done below.
+
 **Title:** NASA GeneLab 2023 Amplicon Sequencing Workshop
 
 **Public overview:**  
