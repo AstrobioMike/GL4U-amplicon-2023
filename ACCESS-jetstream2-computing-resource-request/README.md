@@ -42,9 +42,9 @@ Then selecting to submit an Explore ACCESS request
 
 **Documents and Publications:** Needed to attach my CV here.
 
-**Available resources:** Checked box for ACCESS Credits, entered 46,080. 
+**Available resources:** Checked box for ACCESS Credits, entered 46,080 (no longer need to enter this). 
 
-In comments box: 
+In comments box (no longer present): 
 
 > This is based on using the jetstream estimator (https://wiki.jetstream-cloud.org/alloc/estimator/), with 30 m3.medium instances for 8 days, which comes out to 46,080 SUs there. Please let me know if I should be estimating a different way or if any other information is needed.
 
